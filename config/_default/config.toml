@@ -1,4 +1,4 @@
-baseurl = "https://boring-neumann-7aa8a3.netlify.app/gi
+baseurl = "https://boring-neumann-7aa8a3.netlify.app"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
